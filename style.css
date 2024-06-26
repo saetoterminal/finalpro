@@ -1,0 +1,130 @@
+#logoimage {
+    float: left;
+    border-radius: 90%;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+ }
+
+ h2 {
+    text-align: center;
+ }
+
+ h1 {
+    padding-top: 40px;
+    padding-left: 20px;
+ }
+
+
+ body {
+   background: rgb(2,0,36);
+   background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 31%, rgba(42,26,135,1) 100%);
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+
+ #navul {
+    display: inline;
+    text-align: center;
+    color: whitesmoke;
+    
+ }
+ .navbar a{
+   display: block;
+   color: whitesmoke;
+ }
+
+
+
+nav li { 
+   display: inline-block; 
+   margin-right: 80px; /* Adjust the value as needed */ 
+   padding-left: 100px;
+   padding-bottom: 70px;
+} 
+
+nav a { 
+   text-decoration: none; 
+   color: #ffffff; 
+} 
+
+
+ #button1 {
+    border: 2px outset rgb(255, 255, 255);
+    background-color: rgb(11, 11, 11);
+    color: whitesmoke ;
+   height:50px;
+   cursor:pointer;
+   position: relative;
+   text-align: center;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   border-radius: 12px;
+   border-color: gray;
+  }
+  #button2 {
+    border: 2px outset rgb(255, 255, 255);
+   background-color: rgb(11, 11, 11);
+   color: whitesmoke ;
+   height:50px;
+   cursor:pointer;
+   text-align: center;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   border-radius: 12px;
+   border-color: gray;
+  }
+
+  #button3 {
+    border: 2px outset rgb(255, 255, 255);
+   background-color: rgb(192, 76, 76);
+   height:50px;
+   cursor:pointer;
+   text-align: center;
+   border-radius: 12px;
+  }
+
+  p{
+    padding-left: 200px;
+    padding-right: 200px;
+  }
+
+  #family {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+
+  .wrapper {
+   text-align: center;
+  }
+
+  .button {
+   position: absolute;
+    top: 50%;
+  }
+
+#lifterimage{
+   float: left;
+   max-width: 300px;
+   max-height: 300px;
+   padding-bottom: 100px;
+   padding-left: 50px;
+   padding-right: 50px;
+}
+
+.row {
+   display: flex;
+ }
+ 
+ .column {
+   flex: 50%;
+ }
+
+ .container {
+   text-align: center;
+   padding-bottom: 100px;
+ }
+
+ #result {
+   text-align: center;
+   color: whitesmoke;
+ }
