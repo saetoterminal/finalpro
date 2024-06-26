@@ -84,8 +84,8 @@ nav a {
   }
 
   p{
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
   }
 
   #family {
@@ -116,7 +116,7 @@ nav a {
  }
  
  .column {
-   flex: 50%;
+   flex: 20%;
  }
 
  .container {
@@ -124,7 +124,13 @@ nav a {
    padding-bottom: 100px;
  }
 
- #result {
-   text-align: center;
-   color: whitesmoke;
+ #mass1 {
+  text-align: center;
+ }
+
+
+ #man {
+  height: 400px;
+  width: 500px;
+  padding-left: 400px;
  }
