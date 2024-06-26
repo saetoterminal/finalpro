@@ -131,9 +131,15 @@ nav a {
 
 
  #man {
-  height: 400px;
+  height: 500px;
   width: 500px;
-  padding-left: 400px;
  }
+
+ .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
  
